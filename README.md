@@ -47,4 +47,4 @@ SOFTWARE.
 
 ## 大家喜欢的话可以关注我公众号，
 谢谢
-![](screenshots/code.jpg)
+![公众号二维码](https://luckly007.oss-cn-beijing.aliyuncs.com/image/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
