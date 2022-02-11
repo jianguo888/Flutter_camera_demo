@@ -1,5 +1,9 @@
 # Flutter Camera Demo
 
+安装地址
+
+https://www.pgyer.com/rwwt
+
  Flutter 构建的成熟的相机应用程序。您甚至可以向该应用程序添加自定义功能并自定义用户界面以匹配您应用程序的设计调色板。
 
 ![](screenshots/flutter_camera_demo.png)
